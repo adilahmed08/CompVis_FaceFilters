@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE specific (optional, but good practice)
+.idea/
+.vscode/
+*.DS_Store
+
+# Other (if you have any specific large files or logs you don't want to track)
+# For example, if your filter_assets become very large and you want users to download them separately:
+# filter_assets/ # Uncomment if you want to ignore assets (not recommended for this project size)
